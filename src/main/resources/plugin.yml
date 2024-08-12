@@ -1,0 +1,4 @@
+name: ExplosiveBlockHealth
+version: '${version}'
+main: me.melvuze.explosiveblockhealth.ExplosiveBlockHealth
+api-version: '1.16'
