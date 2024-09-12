@@ -1,5 +1,5 @@
 check-radius: 5
-
+should-drop: true
 list:
-  OBSIDIAN: 3
-  CRYING_OBSIDIAN: 2
+  OBSIDIAN: 2
+  CRYING_OBSIDIAN: 1
